@@ -1,4 +1,6 @@
-
+=======
+CHARACHTERS
+=======
 Warum Lorem Ipsum?
 
 Ein Projekt startet und doch es gibt noch keinen Text, allerdings sollte das Layout schon bald präsentiert werden ... was tun?
