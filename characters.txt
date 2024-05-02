@@ -6,3 +6,12 @@ Ein Projekt startet und doch es gibt noch keinen Text, allerdings sollte das Lay
 Damit das Projekt gleich starten kann benutze einfach etwas Lorem ipsum; Blind-, Füll-, Dummy-, Nachahmungs-, Platzhaltertext.
 
 Generiere einfach soviel Lorem Ipsum Text wie du brauchst. Kopiere und füge ihn in dein Layout als vorübergehenden Platzhalter ein und schon sieht das Projekt ein Stückchen vollständiger aus. Viel Spaß dabei.
+
+    Ant-Man.
+    Aquaman.
+    Asterix.
+    The Atom.
+    The Avengers.
+    Batgirl.
+    Batman.
+    Batwoman.
